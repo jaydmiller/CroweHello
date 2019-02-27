@@ -1,0 +1,17 @@
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\bin\Debug\netcoreapp2.2\HelloAPI.deps.json
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\bin\Debug\netcoreapp2.2\HelloAPI.runtimeconfig.json
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\bin\Debug\netcoreapp2.2\HelloAPI.runtimeconfig.dev.json
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\bin\Debug\netcoreapp2.2\HelloAPI.dll
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\bin\Debug\netcoreapp2.2\HelloAPI.pdb
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\bin\Debug\netcoreapp2.2\HelloService.dll
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\bin\Debug\netcoreapp2.2\HelloService.pdb
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\obj\Debug\netcoreapp2.2\HelloAPI.csprojAssemblyReference.cache
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\obj\Debug\netcoreapp2.2\HelloAPI.csproj.CoreCompileInputs.cache
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\obj\Debug\netcoreapp2.2\HelloAPI.RazorAssemblyInfo.cache
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\obj\Debug\netcoreapp2.2\HelloAPI.RazorAssemblyInfo.cs
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\obj\Debug\netcoreapp2.2\HelloAPI.AssemblyInfoInputs.cache
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\obj\Debug\netcoreapp2.2\HelloAPI.AssemblyInfo.cs
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\obj\Debug\netcoreapp2.2\HelloAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\obj\Debug\netcoreapp2.2\HelloAPI.csproj.CopyComplete
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\obj\Debug\netcoreapp2.2\HelloAPI.dll
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloAPI\obj\Debug\netcoreapp2.2\HelloAPI.pdb

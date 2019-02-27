@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28531.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloAPI", "HelloAPI\HelloAPI.csproj", "{6946BDA8-C291-44B6-B5A3-103BBC28584D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloService", "HelloService\HelloService.csproj", "{77E35C65-D628-45C1-8E4E-1646CE8C2D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloTest", "HelloTest\HelloTest.csproj", "{268113AA-3188-4306-B563-30CC90F3C72E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6946BDA8-C291-44B6-B5A3-103BBC28584D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6946BDA8-C291-44B6-B5A3-103BBC28584D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6946BDA8-C291-44B6-B5A3-103BBC28584D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6946BDA8-C291-44B6-B5A3-103BBC28584D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E35C65-D628-45C1-8E4E-1646CE8C2D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E35C65-D628-45C1-8E4E-1646CE8C2D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E35C65-D628-45C1-8E4E-1646CE8C2D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E35C65-D628-45C1-8E4E-1646CE8C2D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268113AA-3188-4306-B563-30CC90F3C72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268113AA-3188-4306-B563-30CC90F3C72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268113AA-3188-4306-B563-30CC90F3C72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268113AA-3188-4306-B563-30CC90F3C72E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A60B061E-6280-47B0-81E7-12C4D706CAAE}
+	EndGlobalSection
+EndGlobal

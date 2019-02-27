@@ -1,0 +1,8 @@
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloService\bin\Debug\netstandard2.0\HelloService.deps.json
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloService\bin\Debug\netstandard2.0\HelloService.dll
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloService\bin\Debug\netstandard2.0\HelloService.pdb
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloService\obj\Debug\netstandard2.0\HelloService.csproj.CoreCompileInputs.cache
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloService\obj\Debug\netstandard2.0\HelloService.AssemblyInfoInputs.cache
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloService\obj\Debug\netstandard2.0\HelloService.AssemblyInfo.cs
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloService\obj\Debug\netstandard2.0\HelloService.dll
+C:\Users\jayda\source\repos\CroweHello\CroweHelloConsole\HelloService\obj\Debug\netstandard2.0\HelloService.pdb
